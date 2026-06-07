@@ -1,0 +1,222 @@
+================================================================================
+SARB CURRENT MARKET RATES
+================================================================================
+Indicator                           Value   Last Period
+------------------------------------------------------------
+ZAR/USD                           16.2815              
+ZAR/GBP                           21.9075              
+ZAR/EUR                           18.9492              
+ZAR/JPY                            0.1018              
+SARB Policy Rate (Repo)              7.00              
+SABOR                               6.912              
+ZARONIA                             6.852              
+Prime Rate                          10.50              
+R2030 yield                          7.96              
+R209 yield                           8.69              
+
+================================================================================
+JSE / MARKET NEWS ARTICLES
+================================================================================
+
+ARTICLE 1
+SOURCE: Daily Investor
+DATE:   UNKNOWN DATE
+
+TITLE:
+South Africa sitting on a R2 trillion goldmine
+
+URL:
+https://dailyinvestor.com/property/136914/south-africa-sitting-on-a-r2-trillion-goldmine/
+
+BODY:
+South Africa’s affordable housing “gap market” could be worth trillions of rands, but bureaucratic delays, weak debt enforcement mechanisms, and policy shortcomings are driving private investment away. This is according to Sentinel Homes Managing Director Renier Kriek, who explained that South Africa’s potential as a lucrative property market is being undermined. “Unless the government changes its policies and practices, investors and consumers will remain locked out of South Africa’s gap market,” he said. If such changes do not happen, market players could lose out on trillions of rands in investment returns. South Africa continues to face a severe housing shortage. Speaking at the Innovative Building Technologies Summit on 3 February, President Ramaphosa declared a backlog of between 2.5 million and 3 million homes. The South African housing market is divided into three main segments. The RDP/low-income segment comprises households earning R3,500 or less per month and makes up about 40% of the market. The gap market consists of households earning R3,501 to R25,000 per month and house prices ranging from R351,000 to R700,000. This is roughly 30% of the market. Finally, the affluent segment consists of households with incomes over R25,000 per month and homes valued above R700,000, and accounts for the remaining 30% of the market. New research from the Centre for Affordable Housing Finance (CAHF) indicates that the gap market is now the hardest hit by the crisis. The shortage is prevalent in both the owned property and rental accommodation segments. The exact value of the gap market is unknown. However, 3 million homes priced between R351,000 and R700,000 suggest a market value of R1 trillion to R2 trillion, based solely on units sold. These optimistic estimates do not account for subsequent rental income or secondary income, such as mortgage interest, or the dividend or trading value of property stocks. However, despite significant demand and earning potential, the flow of private capital into this segment remains muted. To put this in perspective, the South African home loans book comprises about 1.6 million accounts, while census data indicates about 18 million households in South Africa. There is no chance of addressing this severe housing finance shortage unless it becomes a key policy concern for the government and private market actors, Kriek explained. According to the National Credit Regulator’s Consumer Credit Market Report for the second quarter, published in June 2025, 70.2% of mortgages granted over that period went to R700,000-plus properties. In contrast, gap market mortgage grants were just under 20%.In addition, Kriek said new developments that could bring much-needed stock into the gap market are severely lacking. Lastly, the introduction of Basel IV into the banking system threatens to increase the cost of home loans, he added. Therefore, an arbitrage opportunity exists for non-banking institutions, which are not subject to thes
+--------------------------------------------------------------------------------
+
+ARTICLE 2
+SOURCE: Moneyweb
+DATE:   2026-06-04T04:01:19+02:00
+
+TITLE:
+Investors thump Absa, with astounding 43% vote against exec pay
+
+URL:
+https://www.moneyweb.co.za/news/companies-and-deals/investors-thump-absa-with-astounding-43-vote-against-exec-pay/
+
+BODY:
+Shareholders in Absa Group overwhelmingly slammed the group’s implementation of its remuneration of executives with an astonishing 43.37% of those who voted saying they would not endorse it. While non-binding and a so-called advisory vote, this has to be seen as a serious indictment of the group’s remuneration committee (RemCo). Read: New law will reveal the starkness of SA’s pay gaps Navigating the RemCo annual cycle: Core steps for effective remuneration governance Top eight Standard Bank bosses paid R511m in 2025 Although reported elsewhere – erroneously – as a vote on non-executive remuneration, this was strictly related to the implementation of its pay policy. The vote this year stands in stark contrast to last year where a full 89.54% voted in favour. This is not a revolt among retail shareholders … To achieve a result where 43% of those at the AGM voted against a resolution would need most of its top 10 shareholders – who held 53% of the bank’s shares at the end of December – to vote against it. Given its substantial stake, the Public Investment Corporation (PIC) with 13.82% as at the end of 2025, would’ve surely voted against the resolution. There is no way the maths would’ve worked had it not. The next largest shareholder, Newshelf 1405 (Pty) Ltd, is its BEE special purpose vehicle, and that would’ve obviously not voted against it. Bizarrely, Rose Keanly, the chair of its RemCo, wrote in its 2025 annual report that “2025 has been a ‘key’ year for Absa with a sustained improvement in performance, as well as the appointment of a new Group CEO and investment in top leadership in the context of a revised pan-African strategy and operating model”. Even the tenures of the short-lived Daniel Mminele and (very) early ‘retirement’ of former CEO Arrie Rautenbach failed to raise this much opposition. Those who would’ve voted against could include the PIC, M&G Investments, Blackrock, Vanguard, Old Mutual, Sanlam, Truffle, Laurium and 36One. Rationale The RemCo says that “a primary focus of the RemCo, together with the Group CEO, has been to ensure that the remuneration structures for senior executives are appropriate to attract, reward and retain the right calibre of top executive talent, and that the composition of the total remuneration mix potential is appropriately weighted to performance-based remuneration over the short, medium and long term, aligned with the creation of sustained shareholder value over time. “This has resulted in a highly focused and targeted rebase in senior executive total remuneration opportunity for certain roles, aligned with the shift to pan-African accountability, by reference to market practice in peer organisations,” it adds. Listen/read: ‘Obscene’ CEO packages spark fresh outrage amid SA’s harsh realities “The upfront investment in high-calibre executive leadership (including in the case of external appointments, the need to buy out forfeited awards as part of the recruitment process), and the targeted rebase of tot
+--------------------------------------------------------------------------------
+
+ARTICLE 3
+SOURCE: BusinessLIVE
+DATE:   2026-06-03T08:07:08.271Z
+
+TITLE:
+Huawei joins hands with African banks to usher in a new era of intelligent finance
+
+URL:
+https://www.businesslive.co.za/companies/2026-06-03-huawei-joins-hands-with-african-banks-to-usher-in-a-new-era-of-intelligent-finance/
+
+BODY:
+The 2026 Huawei Sub-Saharan Africa Intelligent Finance Summit was held at Huawei’s Lianqiu Lake R&D Center in Shanghai, China, on May 21. It brought together more than 100 senior executives, industry experts, and technology leaders from financial institutions across eight African countries, alongside over 20 Huawei partners. The summit, themed “Resilience First, Intelligence Next”, focused on cloudification, mobility and resilience. It examined how financial institutions can address transformation challenges such as the digital divide, system vulnerabilities and emerging technology risks, while unlocking opportunities for sustainable growth. Huawei presented a digital and intelligent transformation roadmap for the African financial sector, progressing from cloudification and mobility towards resilience and, ultimately, intelligence. Jason Cao, CEO of the Huawei Digital Finance Business Unit, delivered a speech titled “Embrace AI and Build a New Financial Future in Africa”. He noted that over the next five to 10 years, artificial intelligence (AI) would become the primary driver of development in the financial industry. CEOs and CIOs across the global financial sector are increasingly seeking practical AI solutions. Cao reviewed the digital transformation of China’s financial sector over the past 10 to 15 years, during which it has made significant progress towards a cashless society, profoundly transforming the financial landscape. He emphasised that China’s experience could not simply be replicated, and must instead be adapted to the local realities of each African country. By leveraging cutting-edge technology and global best practices, and through collaboration with local partners, Huawei aims to support the digital and intelligent transformation of African countries and help build a more resilient and dynamic future for the region’s financial sectors. Victor Guo, president of Huawei Sub-Saharan Africa Enterprise Business , reaffirmed the company’s “In Africa, for Africa” approach. It has been operating in Africa for 28 years, serving 83% of the population across 27 countries and cooperating with 85% of leading banks in the region. Huawei aims to work with African banks as they move from IT to digital transformation to AI innovation, entering a new era of intelligent finance. To address the challenges of financial inclusion, cloud and application modernisation, and system resilience, Huawei has proposed a path built on a fintech core and a data and AI platform, using super apps to integrate e-wallets, payments, microloans and risk controls to support customer acquisition. Cloudification is increasingly a core driver of financial transformation, as institutions move towards cloud-native architectures to improve agility, elasticity and innovation. In terms of cloud transformation, Huawei offers a combination of four types of clouds : public cloud, private cloud, dedicated cloud, and edge cloud. This combination meets data compliance requirements
+--------------------------------------------------------------------------------
+
+ARTICLE 4
+SOURCE: Moneyweb
+DATE:   2026-03-27T04:02:01+02:00
+
+TITLE:
+Who sold my phone number?27 Mar 2026 /Ryk van Niekerk
+
+URL:
+https://www.moneyweb.co.za/news/south-africa/who-sold-my-phone-number/
+
+BODY:
+One of the most persistent irritations for many South Africans is the volume of unsolicited marketing calls. Last year, the problem escalated to the point where I was receiving, on average, three to four such calls a day. On one particularly bad day, that number reached eight. As a journalist, I also receive a significant number of legitimate calls from the Moneyweb community, many of which appear only as unfamiliar numbers. This makes it difficult to screen calls and avoid unsolicited contact. Read: Popi has hidden benefits for some small companies [Oct 2015] Where did you get my telephone number? [Oct 2021] Goodbye spam? New rules could free consumers from daily deluge of unwanted calls [Nov 2024] Who owns digital data about you? [Mar 2025] The eight-calls-day prompted me to investigate where my personal contact details were being sourced. I began with a series of online searches and was struck by how widely my information was available on the internet. My contact details were publicly available on a number of international database platforms, including ContactOut, Datanyze, FlashIntel, PIPL and RocketReach. These platforms market access to such information to companies for use in sales prospecting and direct marketing campaigns. They also boast about the scale and depth of their databases as part of their offering. Across these platforms, a significant amount of personal information about me was listed. This included standard details such as my name, phone number, email address and professional designation. However, in aggregate, the platforms also reflected more extensive information, including my date of birth, academic qualifications, stated interests and a personal email address that I have deliberately tried to keep out of the public domain. I engaged with these platforms, and each provided links allowing me to “opt out” and request the deletion of my details from their databases. In some cases, they also indicated that such requests would be passed on to third parties to whom the data had been supplied. They did not disclose the identity of these third parties. Some platforms further disclosed the sources from which the information was obtained. These extended well beyond social media sites such as LinkedIn and Facebook and, in certain instances, included references to “mobile directories” and other unnamed online repositories. Several also indicated that they do not consider themselves bound by the Protection of Personal Information Act (Popia), as they are based outside South Africa. I opted out of these services. Within a few days, the volume of unsolicited calls began to decline, and within a few weeks, they had stopped altogether. At the time, I was particularly concerned about the extent of information held by RocketReach and lodged a formal complaint with The Information Regulator (South Africa). The regulator’s investigation took several months. In its response, it indicated that it would not take further action in this instance,
+--------------------------------------------------------------------------------
+
+ARTICLE 5
+SOURCE: Moneyweb
+DATE:   2026-05-17T10:55:09+02:00
+
+TITLE:
+Standard Bank uCount, FNB eBucks also boost fuel rewards17 May 2026 /Moneyweb
+
+URL:
+https://www.moneyweb.co.za/news/south-africa/standard-bank-ucount-fnb-ebucks-also-boost-fuel-rewards/
+
+BODY:
+Following Absa’s move in April to temporarily increase the earn cap for fuel spend on its Absa Rewards programme, both FNB and Standard Bank have announced changes to their fuel rewards too. Standard Bank’s UCount Rewards programme started its temporary boost to fuel rewards from Saturday (16 May) and it runs to 15 July 2026. This boost will see qualifying members able to earn up to R15 back in Rewards Points per litre when filling up at Astron Energy and Caltex service stations. Read/listen: Fuel loyalty race intensifies as motorists chase every cent Drivers pump the brakes: Fuel spend drops 35% after price shock This equates to an effective 50% increase on the R10 a litre which is earned by a uCount member on Tier 5 under its ‘Double Fuel Rewards’ system. Standard Bank says a client filling a 50-litre tank could now earn up to R750 in Rewards Points, depending on their UCount Rewards tier level and qualifying criteria. During this two-month period, Standard Bank says members will benefit from an enhanced fuel earn structure, enabling higher rewards on both petrol and diesel purchases when using their credit card. “Fuel remains one of the most significant and unavoidable expenses for many South Africans. By increasing the fuel rewards our clients can earn for a limited period, we aim to provide meaningful relief at the pump, while helping free up household budgets for other essentials,” said Fayelizabeth Foster, head of Loyalty and Rewards at Standard Bank. “Rewards points can also be used at rewards retailers or redeemed into their savings account,” she add. In April, Absa said it fuel earn cap had increased from R3 000 to R5 000 “to deliver practical relief when it matters most”. Customers who opt in to its free Absa Rewards programme can earn up to 30% back in cash on their fuel purchases at partner Sasol. Read: Govt slashes levy on diesel to zero, as it extends fuel relief FNB eBucks also launched a limited‑time ‘Fuel Boost’ campaign which runs from May to June 2026. This will see customers earn 50% more eBucks on their fuel spend at Engen, on top of their standard monthly fuel rewards. To unlock the additional guaranteed 50% ‘fuel earn’, customers need to meet their standard monthly eBucks qualifying criteria and spend a minimum of R450 on fuel at Engen each month within the campaign period. “Fuel is an essential expense for most South Africans,” says Pieter Woodhatch, CEO of eBucks. “When prices rise, customers feel it immediately. So, by giving customers an extra 50% back in eBucks on fuel, we are helping to soften that impact by putting real value back into their hands, at a time when it matters most. This is about providing relief now and not promising benefits later.” Over the past year, eBucks customers unlocked R418 million in combined value at Engen. This included R241 million earned back in eBucks rewards and R177 million spent directly in eBucks to reduce out-of-pocket fuel costs. An FNB Private Banking (Premier, Private Clients o
+--------------------------------------------------------------------------------
+
+ARTICLE 6
+SOURCE: Daily Investor
+DATE:   UNKNOWN DATE
+
+TITLE:
+Interest rate pain has a silver lining for South Africans
+
+URL:
+https://dailyinvestor.com/investing/136502/interest-rate-pain-has-a-silver-lining-for-south-africans/
+
+BODY:
+The South African Reserve Bank’s (SARB) decision to hike interest rates by 25 basis points will cause financial strain for many South Africans, but there may be a hidden benefit for some. SARB Governor Lesetja Kganyago announced on 28 May 2026 that South Africa’s borrowing rates would be raised for the first time in over three years, up to 7%. Consult by Momentum wealth manager Jurgen Eckmann said the SARB’s decision reflected its determination to keep inflation expectations anchored around its new 3% target. “April’s CPI print of 4% pushed inflation to the upper edge of the bank’s tolerance band, driven largely by fuel-price pressures linked to global supply disruption,” Eckmann said. “The Monetary Policy Committee’s role is not necessarily to react to the shock itself, but to prevent second-round effects from becoming embedded into wages, rents, and wider pricing behaviour.” Eckmann described the rate hike as the SARB’s first real “stress-test” of its new flat inflation target, which was introduced in November 2025 to replace the old target range of 3% to 6%. Early action taken by the SARB now could stem the tide of further rapid acceleration of inflation and would prevent the need to hike more steeply down the line. However, while the hike appears relatively moderate, this can quickly compound with regard to debt repayments on property and vehicle purchases. Eckmann noted that a 25 basis point hike in interest rates can add as much as R37 per month in repayments for every R300,000 taken out on a loan for a vehicle at the prime lending rate. He stressed that the more severe pain of a higher interest rate will likely not be felt in vehicle and mortgage repayments, but in unsecured lending. “If you are carrying credit card debt at the typical 18% interest rate, the hike itself only adds around R6 a month per R30,000 of balance,” Eckmann said. “But that is not really the story.” “Consumers are already paying approximately R5,400 a year in interest on that R30,000 simply to stand still. Compare that to a home loan, where the same R30,000 of debt costs around R3,150 a year.” Heightened interest rates are certain to inflict some pain on South African consumers over the short term, but Eckmann said there is another side to the story that is not as apparent. While higher rates indicate an increase in debt repayments, it also translates into higher returns on savings and investments for many South Africans. “A rate hike is a tax on debt, but it is also a dividend on discipline,” Eckmann said. “South African savers are now earning some of the strongest real cash returns in the emerging market environment.” Eckmann explained that this was especially applicable to South African retirees and consumers with emergency funds currently in a money market or other income investments. He also said the current market environment could unintentionally drive these consumers to reconsider their savings options. “For consumers with excess cash or short-term savings goa
+--------------------------------------------------------------------------------
+
+ARTICLE 7
+SOURCE: Moneyweb
+DATE:   2026-06-02T04:03:56+02:00
+
+TITLE:
+Why fund managers still disagree about performance fees
+
+URL:
+https://www.moneyweb.co.za/investing/why-fund-managers-still-disagree-about-performance-fees/
+
+BODY:
+Performance fees remain one of the most contested issues in fund management. Managers in favour of performance-linked pricing say they better align the interests of investors and managers by linking fees to results. Listen/read: Insights into SA’s asset management industry Coronation scraps performance fees ‘Not quite 6%’ fees: How this structure protects investors Some industry players argue they can be unclear, difficult to compare and, if poorly designed, allow managers to benefit more from good performance than they suffer from weak performance. Coronation Fund Managers announced late last year that it would scrap performance fees on its remaining retail funds, moving entirely to fixed fees across its retail range. Pieter Koekemoer, head of personal investments at Coronation, says the shift was driven mainly by investor and advisor demand for fees that are easier to understand, compare and budget for. The complexity involved in measuring, disclosing and comparing variable-fee structures had become increasingly difficult to suit a broad retail market. Moneyweb approached seven fund managers to find out how they deal with performance fees. Industry insights Concerns around performance fees are not new In a 2006 paper presented to the Actuarial Society of South Africa, actuary Johan Schreuder examined how performance-based fees were being used in South African investment management, drawing on unit trusts, institutional mandates and public fee information. He argued that fairness depends on how fees are constructed. Factors such as the base fee, benchmark, fee cap, participation rate and measurement period can significantly change investor outcomes. A benchmark is the yardstick against which a fund’s returns are measured – typically a market index, inflation-linked target or peer benchmark. Schreuder cautioned against using cash or inflation-linked hurdles for equity portfolios, saying these can reward managers for broad market movements rather than genuine skill. He also highlighted the importance of longer measurement periods, fee caps and high-water marks – mechanisms that generally require managers to recover prior underperformance before charging new performance fees. The debate continues João Frasco of Stanlib Multi-Manager takes a similar view. He sees a place for performance fees, but only if the methodology is robust. Some fee structures, he argues, use hurdles that are too easy to beat or lack fee caps. They may also rely on rolling periods that can allow managers to charge more than once for effectively the same performance. Sean Peche of Ranmore Fund Management began looking more closely at performance-fee structures after reviewing a client portfolio that layered performance fees in underlying balanced funds over and above advisor charges. That has led to broader questions around benchmarks and disclosure of fee structures. Peche questions the use of peer benchmarks, arguing that performance fees should ideally be measured against r
+--------------------------------------------------------------------------------
+
+ARTICLE 8
+SOURCE: Moneyweb
+DATE:   2026-05-27T14:39:17+02:00
+
+TITLE:
+Rate cuts and two-pot relief fail to stop SA’s debt spiral27 May 2026
+
+URL:
+https://www.moneyweb.co.za/mymoney/moneyweb-personal-finance/rate-cuts-and-two-pot-relief-fail-to-stop-sas-debt-spiral/
+
+BODY:
+Access to cash from the newly implemented two-pot retirement system and successive interest rate cuts provided a critical financial safety valve for South African consumers in the first quarter of 2026. However, data reveals this relief may be masking systemic cash-flow stress, as individuals increasingly deplete emergency savings while expanding their multi-lender borrowing habits. Read: Sarb ties SA rate path to Iran war timeline Marking 10 years of consumer tracking, the Q1 2026 DebtBusters Debt Index highlights that while the immediate rush for debt counselling was slightly muted due to the temporary financial cushions of rate cuts and retirement savings, underlying structural stress remains deeply entrenched. Benay Sager, executive head of DebtBusters, notes: “We believe the financial relief of successive interest rate reductions and access to two-pot retirement savings have helped consumers with their finances.” Read: Pension fund ordered to pay two-pot withdrawal benefit One year into the two-pot system: Lessons from the frontline Yet, despite this dual liquidity injection, subscriptions for online debt management tools surged 23% year on year, signalling that everyday cashflow anxiety has far from evaporated. Sager warns that this trend remains highly predictable: “What remains consistent is that debt burdens are elevated, and income growth is not keeping pace with rising costs.” The low-income paradox vs high-earner crisis The index exposes an economic paradox playing out across different income brackets under the two-pot environment. On average, consumers applying for debt counselling required 64% of their net take-home pay to service debt obligations. While this is a marked downward trend from the 73% peak recorded in Q1 2021, the headline improvement is split heavily by income level. Lower-income earners (those making under R10 000 per month) have actually seen their total debt footprint contract by up to 25% since 2021. However, DebtBusters clarifies that this represents a tightening of credit parameters rather than genuine wealth creation. Read: When does ‘good debt’ turn bad? In stark contrast, South Africa’s highest earners are experiencing acute financial stress. Individuals taking home more than R50 000 a month are starting every single month on the back foot, requiring an astonishing 101% of their net salary just to clear their monthly debt commitments. This cohort carries a total debt-to-annual-income ratio of 303% – the highest of any income band. For these top earners, unsecured debt levels have ballooned by 99% since 2021, effectively doubling. This accumulation far outpaces the 27% average inflation rate and their modest 6% salary growth over the same period, pinpointing a massive risk centre for financial institutions. Record reliance on payday and personal loans To survive month to month, consumers are relying on short-term, unsecured financing to bridge the gap. A record 96% of new applicants already hold a personal loa
+--------------------------------------------------------------------------------======================================================================
+JSE TOP 40  |  1-DAY MOVERS  (best → worst)
+======================================================================
+  SOL.JO       ▲  +6.32%   close:   22805.00
+  BTI.JO       ▲  +2.56%   close:   96660.00
+  ABG.JO       ▲  +1.86%   close:   23320.00
+  NPN.JO       ▲  +1.49%   close:   88300.00
+  PRX.JO       ▲  +1.40%   close:   76736.00
+  CPI.JO       ▲  +1.35%   close:  435208.00
+  CFR.JO       ▲  +0.88%   close:  341520.00
+  SLM.JO       ▲  +0.78%   close:    8430.00
+  WHL.JO       ▲  +0.49%   close:    4910.00
+  OMU.JO       ▲  +0.47%   close:    1290.00
+  SBK.JO       ▲  +0.32%   close:   30698.00
+  ANH.JO       ▲  +0.17%   close:  128853.00
+  FSR.JO       ▲  +0.07%   close:    9099.00
+  OUT.JO       ▲  +0.06%   close:    6890.00
+  DSY.JO       ▲  +0.00%   close:   26626.00
+  BID.JO          +0.00%   close:   41250.00
+  NED.JO       ▼  -0.02%   close:   25477.00
+  CLS.JO       ▼  -0.08%   close:   23500.00
+  BVT.JO       ▼  -0.29%   close:   23200.00
+  REM.JO       ▼  -0.42%   close:   18522.00
+  GRT.JO       ▼  -0.49%   close:    1619.00
+  NRP.JO       ▼  -0.57%   close:   13790.00
+  VOD.JO       ▼  -1.02%   close:   15068.00
+  MTN.JO       ▼  -1.27%   close:   21174.00
+  INL.JO       ▼  -1.34%   close:   13596.00
+  INP.JO       ▼  -1.41%   close:   13800.00
+  EXX.JO       ▼  -2.12%   close:   22268.00
+  GLN.JO       ▼  -2.26%   close:   13014.00
+  GFI.JO       ▼  -2.66%   close:   60570.00
+  KIO.JO       ▼  -2.89%   close:   30000.00
+  AGL.JO       ▼  -3.13%   close:   86200.00
+  BHG.JO       ▼  -3.75%   close:   69531.00
+  ARI.JO       ▼  -4.15%   close:   19295.00
+  ANG.JO       ▼  -4.95%   close:  140550.00
+  HAR.JO       ▼  -5.84%   close:   26300.00
+  SSW.JO       ▼  -6.69%   close:    4252.00
+  IMP.JO       ▼  -7.52%   close:   20068.00
+
+======================================================================
+JSE TOP 40  |  BIGGEST MOVERS TODAY  (top 5)
+======================================================================
+  IMP.JO       ▼  -7.52%   close:   20068.00
+  SSW.JO       ▼  -6.69%   close:    4252.00
+  SOL.JO       ▲  +6.32%   close:   22805.00
+  HAR.JO       ▼  -5.84%   close:   26300.00
+  ANG.JO       ▼  -4.95%   close:  140550.00
+
+======================================================================
+JSE TOP 40  |  BEST 3-DAY PERFORMERS  (top 3)
+======================================================================
+  SOL.JO       ▲  +6.96%   close:   22805.00
+  SLM.JO       ▲  +2.55%   close:    8430.00
+  ABG.JO       ▲  +1.79%   close:   23320.00
+
+======================================================================
+JSE TOP 40  |  WORST 3-DAY PERFORMERS  (bottom 3)
+======================================================================
+  SSW.JO       ▼ -12.31%   close:    4252.00
+  IMP.JO       ▼ -12.02%   close:   20068.00
+  HAR.JO       ▼  -8.39%   close:   26300.00
+
+======================================================================
+JSE INDICES
+======================================================================
+  JSE Top 40           ▼  -1.15%   close:    103419.50
+  JSE All Share        ▼  -1.05%   close:    111275.40
+
+======================================================================
+GLOBAL COMMODITIES
+======================================================================
+  Gold            ▼  -2.47%   price:    4365.30
+  Silver          ▼  -6.34%   price:      69.10
+  Platinum        ▼  -5.07%   price:    1797.90
+  Palladium       ▼  -4.19%   price:    1263.60
+  WTI Oil         ▼  -2.69%   price:      90.54
+  Brent Oil       ▼  -2.04%   price:      93.09
+  Copper          ▼  -3.48%   price:       6.28
+  Natural Gas     ▼  -3.21%   price:       3.23
+
+======================================================================
+SOUTH AFRICAN FX  (units of ZAR per 1 foreign unit)
+======================================================================
+  USD/ZAR      ▲  +1.52%   rate:  16.5541   rand weaker
+  EUR/ZAR      ▲  +0.66%   rate:  19.0751   rand weaker
+  GBP/ZAR      ▲  +0.75%   rate:  22.0673   rand weaker
+  JPY/ZAR      ▲  +1.32%   rate:   0.1033   rand weaker
+  CNY/ZAR      ▲  +1.65%   rate:   2.4471   rand weaker
+  AUD/ZAR      ▲  +0.09%   rate:  11.6451   rand weaker
+
